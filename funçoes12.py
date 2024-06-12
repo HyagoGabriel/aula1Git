@@ -14,7 +14,8 @@ def criar_lista(n):
 
 print(criar_lista(10))
 
-global a = 1
+global a 
+a = 1
 def fun():
     a = 2
     print(a)
